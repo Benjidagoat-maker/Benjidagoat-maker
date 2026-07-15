@@ -23,11 +23,11 @@
     <img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/benjidagoat">
+  <a href="https://www.linkedin.com/in/benji-exe-713563369">
     <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:benji@email.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -53,7 +53,7 @@ I am a third-year Information Sciences (SI2) student at the Faculty of Sciences 
 
 My PFE internship at <strong>Astrée Assurances</strong> (BIAT Group) delivered a production-grade hybrid insurance platform integrating <strong>Flutter</strong>, <strong>Angular</strong>, <strong>Firebase</strong>, and <strong>Google Gemini AI</strong> — spanning mobile UX, real-time backend orchestration, and AI-powered claim automation. I operate at the intersection of product thinking and systems engineering.
 
-I approach every problem through the <strong>2TUP methodology</strong> — iterative, architecture-first, test-validated. My toolchain spans agile project management (Jira, Scrum), infrastructure-as-code, CI/CD pipelines, and AI integration. Outside engineering, I study Japanese language and culture, and hold a deep interest in cross-cultural product design for global markets.
+I approach every problem through the <strong>2TUP methodology</strong> — iterative, architecture-first, test-validated. My toolchain spans agile project management (Jira, Scrum), infrastructure-as-code, CI/CD pipelines, and AI integration. Outside engineering, I study Japanese language and culture with an eye toward working in Japan long-term, and hold a deep interest in cross-cultural product design for global markets.
 </p>
 
 **Open To:**
@@ -165,7 +165,7 @@ GitHub Actions workflows were implemented to synchronize Jira ticket state with 
 <summary><strong>⬡ Interactive Japanese Language Learning Platform</strong></summary>
 <br>
 
-A full curriculum-mapped Japanese language learning web application, architected around the CEFR (A1–B2) and JLPT (N5–N3) frameworks — built as a solo full-stack project with a dark aesthetic and structured pedagogical progression.
+A full curriculum-mapped Japanese language learning web application, architected around the CEFR (A1–B2) and JLPT (N5–N3) frameworks — built as a solo full-stack project with a dark Japanese aesthetic and structured pedagogical progression.
 
 | Attribute | Detail |
 |---|---|
@@ -310,7 +310,7 @@ Delivered a production hybrid insurance platform from requirements through deplo
 ```yaml
 current_focus:
   learning:
-    - Japanese language — targeting JLPT N4
+    - Japanese language — targeting JLPT N5
     - System design patterns for distributed applications
     - English B2+ for international engineering roles
   building:
@@ -324,7 +324,7 @@ current_focus:
   open_to:
     - Full-stack engineering (remote / international)
     - AI integration engineering roles
-    - Graduate programs — Software Engineering / AI (Japan / Europe)
+    - Work visa / employment pathways to Japan
     - Open source collaboration
 ```
 
@@ -333,11 +333,11 @@ current_focus:
 ## ◈ Connect
 
 <p align="center">
-  <a href="mailto:kenjirobenji@email.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/benji-exe">
+  <a href="https://www.linkedin.com/in/benji-exe-713563369">
     <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
