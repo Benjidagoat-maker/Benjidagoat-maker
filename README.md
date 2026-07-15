@@ -333,11 +333,11 @@ current_focus:
 ## ◈ Connect
 
 <p align="center">
-  <a href="mailto:benji@email.com">
+  <a href="mailto:kenjirobenji@email.com">
     <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/benjidagoat">
+  <a href="www.linkedin.com/in/benji-exe">
     <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
