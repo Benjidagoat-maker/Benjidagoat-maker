@@ -333,7 +333,7 @@ current_focus:
 ## ◈ Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:kenjirobenji@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -345,7 +345,7 @@ current_focus:
     <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/Benjidagoat-maker">
+  <a href="[https://github.com/Benjidagoat-maker](https://benji-portfolio-2026.web.app/)">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
